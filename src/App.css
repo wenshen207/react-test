@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  height: auto;
+  margin: 0 auto;
+  padding: 2rem;
+
+}
+
+.cal-container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 780px;
+}
